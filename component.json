@@ -7,5 +7,5 @@
 
     "dependencies": {
         "visionmedia/superagent" : "*"
-    },
+    }
 }
